@@ -1,3 +1,3 @@
-# Primer Proyecto
+# Primer Proyecto OpenWeather API
 
-Probando Github primer intento
+Primer commit y primer proyecto de programación!!
